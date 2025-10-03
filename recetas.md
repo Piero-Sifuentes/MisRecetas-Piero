@@ -1,12 +1,2 @@
-\*\*Ingredientes:\*\*
-
-\* 4 huevos
-
-\* Patatas
-
-\* Cebolla
-
-\* Aceite de oliva
-
-\* Sal
+1\. Cortar las patatas y la cebolla en trozos pequeños.
 
